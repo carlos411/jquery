@@ -33,7 +33,6 @@
   * [5.4 事件觸發寫法及注意事項](5.-shi-jian-jian-ting-event-handling/5.4-ji-ben-de-shi-jian.md)
   * [5.5 動態事件綁定](5.-shi-jian-jian-ting-event-handling/5.5-delegation-live-events.md)
   * [5.6 觸發事件與解除事件綁定](5.-shi-jian-jian-ting-event-handling/5.6-shi-jian-de-chu-fa-triggering-events.md)
-  * [5.7 練習](5.-shi-jian-jian-ting-event-handling/5.7-jian-li-zi-ding-shi-jian.md)
 * [6 動畫效果 (Animation)](6.-dong-hua-xiao-guo/README.md)
   * [6.1 基本效果](6.-dong-hua-xiao-guo/6.1-yin-cang-yu-chu-xian.md)
   * [6.2 .animate() 函式動畫效果](6.-dong-hua-xiao-guo/6.2-zi-ding-dong-hua-xiao-guo.md)
