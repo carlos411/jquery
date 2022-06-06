@@ -2,7 +2,7 @@
 
 ## jQeury 官網
 
-網址：[https://jquery.com/](https://jquery.com)
+網址：[https://jquery.com/](https://jquery.com/)
 
 ## jQuery 是什麼
 
@@ -24,7 +24,7 @@
 
 ## jQuery API 文件中的搜尋
 
-網址：[https://api.jquery.com/](https://api.jquery.com)
+網址：[https://api.jquery.com/](https://api.jquery.com/)
 
 ![API Documentation](../.gitbook/assets/jquery\_api\_search.png)
 

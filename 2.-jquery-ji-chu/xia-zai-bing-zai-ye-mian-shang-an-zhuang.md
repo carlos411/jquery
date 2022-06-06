@@ -2,7 +2,7 @@
 
 ## 方式一：自行下載安裝
 
-點進去[官網網址](https://jquery.com)後，如下圖，看到「Download jQuery」按鈕，點進去。
+點進去[官網網址](https://jquery.com/)後，如下圖，看到「Download jQuery」按鈕，點進去。
 
 ![](<../.gitbook/assets/jquery\_download (1).png>)
 
