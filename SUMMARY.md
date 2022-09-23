@@ -41,6 +41,5 @@
   * [7.1 陣列(Array)相關](7.-shi-yong-han-shi-utility-functions/7.1-zhen-lie-array-han-shi.md)
   * [7.2 練習：陣列項目不能重覆](7.-shi-yong-han-shi-utility-functions/7.3-lian-xi-zhen-lie-xiang-mu-bu-neng-zhong-fu.md)
 * [8 簡易 jQuery 套件](8.-jquery-wai-gua-plugin.md)
-* [9 作業(Java班)](9.-zuo-ye.md)
-* [10 作業(前端班)](10-zuo-ye-qian-duan-ban.md)
-* [11 參考資料](can-kao-zi-liao.md)
+* [9 作業](9.-zuo-ye.md)
+* [10 參考資料](can-kao-zi-liao.md)
