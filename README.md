@@ -4,6 +4,6 @@
 
 網址：[https://docs.webmix.cc/jquery/](https://docs.webmix.cc/jquery/)
 
-或 QR Code：
+或 QR Code tt：
 
 ![jQuery](.gitbook/assets/jquery\_course\_link.png)
