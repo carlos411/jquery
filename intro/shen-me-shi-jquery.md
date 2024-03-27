@@ -42,7 +42,7 @@
 
 先在電腦桌面(或其它習慣的位置)建立一個 `jquery` 資料夾，然後在該資料夾內，再建立以下資料夾及檔案：
 
-* `assignment_座號/`
+* `assignment/`
 * `practice/vendors/jquery/`
 * `practice/index.html`
 
@@ -62,5 +62,5 @@
 
 之後的練習都會在 `jquery/practice/` 資料夾內。
 
-之後的作業會在 `jquery/assignment_座號/` 資料夾內。
+之後的作業會在 `jquery/assignment/` 資料夾內。
 
