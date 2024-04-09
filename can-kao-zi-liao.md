@@ -1,4 +1,4 @@
-# 11 參考資料
+# 10 參考資料
 
 ## 連結
 
@@ -18,7 +18,7 @@
 * [jquery-cropper](https://fengyuanchen.github.io/jquery-cropper/)
 * [inputTags](http://betaweb.github.io/inputTags-jQuery-plugin/)
 * [Image Magnifier Glass Effect In jQuery - BUP.js](https://www.jqueryscript.net/zoom/image-magnifier-glass-bup.html)
-* [jQuery Date Range Picker](https://www.lavendercottage.com.tw/assets/fantasy/plugins/jquery-date-range-picker/)
+* [jQuery Date Range Picker](https://longbill.github.io/jquery-date-range-picker/)
 * [fullPage](https://www.jqueryscript.net/layout/jQuery-Plugin-For-Fullscreen-One-Page-Scrolling-Websites-fullPage-js.html)
 * [jQuery Modal](https://jquerymodal.com/)
 
