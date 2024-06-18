@@ -18,7 +18,7 @@
 
 在 **`jquery/practice/vendors/jquery/`** 資料夾中，建立檔名 **`jquery-3.4.1.min.js`** ，然後將上圖的原始碼全部複製，貼進剛建立的檔案並儲存。
 
-然後在頁面上載入，開啟 `jquery/practice/index.html` 檔案，改成如下(載入 jQuery 檔案，放在 **`</body>`** 之前)：
+然後在頁面上載入，開啟 `jquery/practice/index2.html` 檔案，改成如下(載入 jQuery 檔案，放在 **`</body>`** 之前)：
 
 ```markup
 <!doctype html>
