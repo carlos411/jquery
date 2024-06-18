@@ -44,9 +44,9 @@
 
 * `assignment/`
 * `practice/vendors/jquery/`
-* `practice/index.html`
+* `practice/index2.html`
 
-`index.html` 檔案內容如下：
+`index2.html` 檔案內容如下：
 
 ```markup
 <!doctype html>
