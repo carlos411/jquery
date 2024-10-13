@@ -19,6 +19,7 @@
 * [inputTags](http://betaweb.github.io/inputTags-jQuery-plugin/)
 * [Image Magnifier Glass Effect In jQuery - BUP.js](https://www.jqueryscript.net/zoom/image-magnifier-glass-bup.html)
 * [jQuery Date Range Picker](https://longbill.github.io/jquery-date-range-picker/)
+* [flatpickr](https://flatpickr.js.org/)
 * [fullPage](https://www.jqueryscript.net/layout/jQuery-Plugin-For-Fullscreen-One-Page-Scrolling-Websites-fullPage-js.html)
 * [jQuery Modal](https://jquerymodal.com/)
 
