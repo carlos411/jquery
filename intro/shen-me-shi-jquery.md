@@ -18,7 +18,7 @@
 
 ## jQuery 最新版本
 
-截至 2024/11，最新版本為 `3.7.1`。
+截至 2025/04，最新版本為 `3.7.1`。
 
 
 
@@ -26,7 +26,7 @@
 
 網址：[https://api.jquery.com/](https://api.jquery.com/)
 
-![API Documentation](../.gitbook/assets/jquery\_api\_search.png)
+![API Documentation](../.gitbook/assets/jquery_api_search.png)
 
 請透過以上的「搜尋」，試著查看看以下三個 API 的說明：
 
