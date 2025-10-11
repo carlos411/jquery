@@ -6,15 +6,9 @@
 
 ## jQuery 是什麼
 
-是一個 JavaScript 「函式庫(Library)」，執行於瀏覽器端，主要提供了以下好處：
+是一個 JavaScript 「函式庫(Library)」，執行於瀏覽器端。
 
-* 跨瀏覽器一致性的 API
-* animation 動畫效果
-* 頁面 DOM 處理
-* 各種事件監聽
-* AJAX 機制
-* 已經預設寫好的一些函式
-* 可自行寫 jQuery Plugin
+
 
 ## jQuery 最新版本
 
