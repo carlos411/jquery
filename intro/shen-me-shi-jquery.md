@@ -1,4 +1,4 @@
-# 1.4 簡介 jQuery 及前置
+# 1.3 簡介 jQuery 及前置
 
 ## jQeury 官網
 
@@ -12,25 +12,23 @@
 
 ## jQuery 最新版本
 
-截至 2026/06，最新版本為 `4.0.0`。
+截至 2026/11，最新版本為 `4.0.0`。
 
 
 
-## jQuery API 文件中的搜尋
+## jQuery 函式範例
 
-網址：[https://api.jquery.com/](https://api.jquery.com/)
-
-![API Documentation](../.gitbook/assets/jquery_api_search.png)
-
-請透過以上的「搜尋」，試著查看看以下三個 API 的說明：
+三個函式：
 
 * width()
 * innerWidth()
 * outerWidth()
 
-範例觀察：
+範例觀察：[https://codepen.io/editor/carlos411/pen/01a1d85b-1a68-7132-bdb8-cf6951aac89f](https://codepen.io/editor/carlos411/pen/01a1d85b-1a68-7132-bdb8-cf6951aac89f)
 
-{% embed url="https://codepen.io/carlos411/pen/poJGBmg" %}
+{% embed url="https://codepen.io/editor/carlos411/pen/01a1d85b-1a68-7132-bdb8-cf6951aac89f" %}
+
+
 
 ## 前置
 
@@ -42,7 +40,7 @@
 
 `index2.html` 檔案內容如下：
 
-```markup
+```html
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -56,7 +54,7 @@
 </html>
 ```
 
-之後的練習都會在 `jquery/practice/` 資料夾內。
+之後的練習會在 `jquery/practice/` 資料夾內。
 
 之後的作業會在 `jquery/assignment/` 資料夾內。
 
