@@ -12,7 +12,7 @@
 
 然後在頁面上載入，開啟 `jquery/practice/index2.html` 檔案，改成如下(載入 jQuery 檔案，放在 **`</body>`** 之前)：
 
-```markup
+```html
 <!doctype html>
 <html lang="zh-Hant">
   <head>
@@ -30,29 +30,9 @@
 
 
 
-## 方式二：使用 CDN
+## 方式二：在 CodePen 上安裝
 
-在[下載頁面](https://jquery.com/download/)當中，找到「Google CDN」的連結，如下畫面：
+例：[https://codepen.io/editor/carlos411/pen/01a1d864-66bf-7119-b826-b119ecbe47e9](https://codepen.io/editor/carlos411/pen/01a1d864-66bf-7119-b826-b119ecbe47e9)
 
-![](../.gitbook/assets/jquery_google_cdn.png)
-
-然後點擊進去，複製下圖圈選起來的 script 標籤原始碼：
-
-![](../.gitbook/assets/jquery_google_cdn_3.png)
-
-即：
-
-```markup
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
-```
-
-將上述 script 標籤，放到你要載入的頁面即可，建議放在 `</body>` 之前。
-
-
-
-## 方式三：在 CodePen 上安裝
-
-直接按 `Settings → JS`，搜尋 `jquery`，選擇正確的版本，再按 `Save & Close` 即可。如下示意：
-
-![](../.gitbook/assets/jquery_cdn_save.png)
+{% embed url="https://codepen.io/editor/carlos411/pen/01a1d864-66bf-7119-b826-b119ecbe47e9" %}
 
