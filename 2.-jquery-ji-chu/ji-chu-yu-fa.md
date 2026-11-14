@@ -25,7 +25,7 @@ console.log($);
 
 結果如下圖：
 
-![](../.gitbook/assets/jquery\_func.png)
+![](../.gitbook/assets/jquery_func.png)
 
 是一樣的東西，其實 jQuery 只是一個函式。
 
@@ -35,8 +35,8 @@ console.log($);
 
 以下請編輯 `jquery/practice/index_test.html` 檔案，將使用 jQuery 語法的程式，放在以下位置：
 
-```markup
-<!doctype html>
+```javascript
+<!DOCTYPE html>
 <html lang="zh-Hant">
   <head>
     <meta charset="utf-8">
