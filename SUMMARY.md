@@ -33,7 +33,7 @@
   * [6.2 .animate() 函式](6.-dong-hua-xiao-guo/6.2-zi-ding-dong-hua-xiao-guo.md)
   * [6.3 delay() 函式](6.-dong-hua-xiao-guo/6.3-dong-hua-xiao-guo-de-zhu-lie-queues.md)
   * [6.4 練習](6.-dong-hua-xiao-guo/6.4-lian-xi-jian-yi-nei-rong-su-he.md)
-* [7 陣列相關函式](7.-shi-yong-han-shi-utility-functions/README.md)
+* [7 基礎陣列函式](7.-shi-yong-han-shi-utility-functions/README.md)
   * [7.1 陣列(Array)相關](7.-shi-yong-han-shi-utility-functions/7.1-zhen-lie-array-han-shi.md)
   * [7.2 練習：陣列項目不能重覆](7.-shi-yong-han-shi-utility-functions/7.3-lian-xi-zhen-lie-xiang-mu-bu-neng-zhong-fu.md)
 * [8 簡易 jQuery 套件](8.-jquery-wai-gua-plugin.md)
